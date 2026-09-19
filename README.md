@@ -32,12 +32,31 @@ Traditional remote testing often suffers from widespread malpractice and high ov
 - **Visual Studio Code**: Integrated development environment.
 - **Git & GitHub**: Version control, repository standardization, and remote collaboration.
 
+
+## Prerequisites & Installation
+
+To run this project locally, ensure you have Python installed. The required dependencies are listed in `requirements.txt`.
+
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/Udayasree2610/exam_monitoring_project.git](https://github.com/Udayasree2610/exam_monitoring_project.git)
+
+2. Navigate to the project directory:
+    cd exam_monitoring_projectg
+
+3. Install dependencies:
+    pip install -r requirements.txt
+
+4. Run the application:
+    python app.py
+
+
 ## Project Directory Structure
 
-```text
 exam_monitoring_project/
-├── Documentation/
-│   ├── Agile_Template_v0.1.xlsx
+├── Agile Documentation/
+│   └── Agile_Template_v0.1 (1).xlsx
+├── Project Documentation/
 │   ├── Defect_Tracker_Template_v0.1.xlsx
 │   └── Unit_Test_Plan_v0.1.xlsx
 ├── static/
@@ -58,4 +77,17 @@ exam_monitoring_project/
 ├── dashboard.py
 ├── database.py
 ├── exam_monitor.db
+├── MIT LICENSE
+├── README.md
+├── requirements.txt
 └── synthetic_data_generator.py
+
+## Documentation
+
+Project management artifacts, structured documentation files, and testing blueprints are systematically organized under distinct directories in compliance with institutional standards:
+
+- **Project Documentation/**: Contains the core technical planning and evaluation artifacts required for quality assurance:
+  - **Unit_Test_Plan_v0.1.xlsx**: Outlines test cases, module verification procedures, inputs, and expected outcomes to ensure system reliability.
+  - **Defect_Tracker_Template_v0.1.xlsx**: Tracks application bugs, severity levels, and resolution status throughout the testing phase.
+- **Agile Documentation/**: Contains agile project management artifacts tracking iterative development:
+  - **Agile_Template_v0.1 (1).xlsx**: Tracks sprint cycles, user stories, task backlogs, and milestone progress.s
