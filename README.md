@@ -87,4 +87,4 @@ Project management artifacts, structured documentation files, and testing bluepr
   - **Unit_Test_Plan_v0.1.xlsx**: Outlines test cases, module verification procedures, inputs, and expected outcomes to ensure system reliability.
   - **Defect_Tracker_Template_v0.1.xlsx**: Tracks application bugs, severity levels, and resolution status throughout the testing phase.
 - **Agile Documentation/**: Contains agile project management artifacts tracking iterative development:
-  - **Agile_Template_v0.1 (1).xlsx**: Tracks sprint cycles, user stories, task backlogs, and milestone progress.s
+  - **Agile_Template_v0.1 (1).xlsx**: Tracks sprint cycles, user stories, task backlogs, and milestone progress.
