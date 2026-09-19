@@ -53,10 +53,10 @@ To run this project locally, ensure you have Python installed. The required depe
 
 ## Project Directory Structure
 
+```text
 exam_monitoring_project/
-├── Agile Documentation/
-│   └── Agile_Template_v0.1 (1).xlsx
-├── Project Documentation/
+├── Documentation/
+│   ├── Agile_Template_v0.1.xlsx
 │   ├── Defect_Tracker_Template_v0.1.xlsx
 │   └── Unit_Test_Plan_v0.1.xlsx
 ├── static/
@@ -77,9 +77,6 @@ exam_monitoring_project/
 ├── dashboard.py
 ├── database.py
 ├── exam_monitor.db
-├── MIT LICENSE
-├── README.md
-├── requirements.txt
 └── synthetic_data_generator.py
 
 ## Documentation
