@@ -79,15 +79,23 @@ exam_monitoring_project/
 ├── exam_monitor.db
 └── synthetic_data_generator.py
 
-## Documentation
+Documentation
+
 
 Project management artifacts, structured documentation files, and testing blueprints are systematically organized under distinct directories in compliance with institutional standards:
 
-### Project Documentation
-- Contains the core technical planning and evaluation artifacts required for quality assurance:
-  - **Unit_Test_Plan_v0.1.xlsx**: Outlines test cases, module verification procedures, inputs, and expected outcomes to ensure system reliability.
-  - **Defect_Tracker_Template_v0.1.xlsx**: Tracks application bugs, severity levels, and resolution status throughout the testing phase.
+Project Documentation
 
-### Agile Documentation
-- Contains agile project management artifacts tracking iterative development:
-  - **Agile_Template_v0.1 (1).xlsx**: Tracks sprint cycles, user stories, task backlogs, and milestone progress.
+Contains the core technical planning and evaluation artifacts required for quality assurance:
+Unit_Test_Plan_v0.1.xlsx: Outlines test cases, module verification procedures, inputs, and expected outcomes to ensure system reliability.
+
+Defect_Tracker_Template_v0.1.xlsx: Tracks application bugs, severity levels, and resolution status throughout the testing phase.
+
+Agile Documentation
+
+Contains agile project management artifacts tracking iterative development:
+Agile_Template_v0.1 (1).xlsx: Tracks sprint cycles, user stories, task backlogs, and milestone progress.
+
+License
+
+This project is open-source and distributed under the terms of the MIT License.
