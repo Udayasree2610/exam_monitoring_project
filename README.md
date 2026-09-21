@@ -69,14 +69,31 @@ exam_monitoring_project/
 └── synthetic_data_generator.py
 
 ## Project Documentation
-Project management artifacts, structured documentation files, and testing blueprints are organized as follows[span_2](start_span)[span_2](end_span):
+Project management artifacts, structured documentation files, and testing blueprints are organized as follows[span_0](start_span)[span_0](end_span):
 
-* **Unit_Test_Plan_v0.1.xlsx:** Outlines test cases, module verification procedures, inputs, and expected outcomes[span_3](start_span)[span_3](end_span).
-* **Defect_Tracker_Template_v0.1.xlsx:** Tracks application bugs, severity levels, and resolution status[span_4](start_span)[span_4](end_span).
+* **Unit_Test_Plan_v0.1.xlsx:** Outlines test cases, module verification procedures, inputs, and expected outcomes[span_1](start_span)[span_1](end_span).
+* **Defect_Tracker_Template_v0.1.xlsx:** Tracks application bugs, severity levels, and resolution status[span_2](start_span)[span_2](end_span).
 
 ## Agile Documentation
-Contains agile project management artifacts tracking iterative development[span_5](start_span)[span_5](end_span):
-* **Agile_Template_v0.1.xlsx:** Tracks sprint cycles, user stories, task backlogs, and milestones[span_6](start_span)[span_6](end_span).
+Contains agile project management artifacts tracking iterative development[span_3](start_span)[span_3](end_span):
+
+* **Agile_Template_v0.1.xlsx:** Tracks sprint cycles, user stories, task backlogs, and milestones[span_4](start_span)[span_4](end_span).
 
 ## License
-This project is open-source and distributed under the terms of the MIT License[span_7](start_span)[span_7](end_span).
+This project is open-source and distributed under the terms of the MIT License[span_5](start_span)[span_5](end_span).
+
+## Project Documentation
+
+Detailed project documentation is available in:
+
+- **PROJECT_DOCUMENTATION.md**
+
+## Agile Documentation
+
+Contains agile project management artifacts tracking iterative development.
+
+- **Agile_Template_v0.1.xlsx:** Tracks sprint cycles, user stories, task backlogs, and milestones.
+
+## License
+
+This project is open-source and distributed under the terms of the **MIT License**.
