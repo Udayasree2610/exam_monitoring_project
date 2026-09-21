@@ -82,18 +82,3 @@ Contains agile project management artifacts tracking iterative development[span_
 ## License
 This project is open-source and distributed under the terms of the MIT License[span_5](start_span)[span_5](end_span).
 
-## Project Documentation
-
-Detailed project documentation is available in:
-
-- **PROJECT_DOCUMENTATION.md**
-
-## Agile Documentation
-
-Contains agile project management artifacts tracking iterative development.
-
-- **Agile_Template_v0.1.xlsx:** Tracks sprint cycles, user stories, task backlogs, and milestones.
-
-## License
-
-This project is open-source and distributed under the terms of the **MIT License**.
